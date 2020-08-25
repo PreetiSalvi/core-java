@@ -103,5 +103,5 @@ class AbstractChildClass extends AbstractClass {
 // It is not mandatory to implement any of the abstract methods from parent
 // class if the class is abstract
 abstract class AbstractChild2 extends AbstractClass {
-    
+
 }
